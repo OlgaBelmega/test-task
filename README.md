@@ -13,5 +13,6 @@ Test task
 10. Create new spec in Cypress.
 11. Add tests to spec.cy.js file
 12. Add files for commit: git add .
-12.  Git commit -m "Test Task"
-13. Git push 
+13. Check status: git status
+14.  Git commit -m "Test Task"
+15. Git push 
